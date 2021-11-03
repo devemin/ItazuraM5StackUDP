@@ -44,9 +44,7 @@ M5Stack の左ボタンを押すと、画像が出たり消えたり音を出し
 
 中、右ボタンを押すと、ウィンドウを左右に移動します。
 
-アクティブ前面化処理はしていないです。必要ならこのあたりが参考になりそうです。
 
-https://dobon.net/vb/dotnet/form/activate.html
 
 
 # 参考 THANKS
@@ -57,6 +55,7 @@ https://johobase.com/windows-form-transparencykey/
 
 https://algorithm.joho.info/m5stack/m5stack-button/
 
+https://dobon.net/vb/dotnet/form/activate.html
 
 # ライセンス
 

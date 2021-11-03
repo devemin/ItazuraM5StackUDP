@@ -102,6 +102,7 @@ namespace ItazuraM5
 
                     if(imageflag)
                     {
+                        this.Activate();
                         this.BackgroundImage = ItazuraM5.Properties.Resources._862711;
 
 

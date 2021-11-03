@@ -15,6 +15,7 @@ ItazuraM5 が、 Visual Studio 2019 (VS2019) C# で作ったプログラムで�
 
 M5Stack_Itazura が、M5Stack / Arduino IDE で作ったプログラムです。
 
+（自分の他のコードから勢いでつぎはぎしたので、冗長で無駄なコードが多々含まれます）
 
 # 設定
 

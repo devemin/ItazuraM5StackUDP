@@ -60,4 +60,4 @@ https://dobon.net/vb/dotnet/form/activate.html
 
 # ライセンス
 
-MIT Liscense
+MIT License
